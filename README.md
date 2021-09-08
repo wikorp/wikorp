@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wiktor
-- 🌱 I’m currently learning c++ python
+- 🌱 I’m currently learning c++, python
 - 📫 How to reach me wiktor.pori@gmail.com
 
 <!---
