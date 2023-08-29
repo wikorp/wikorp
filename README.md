@@ -1,6 +1,18 @@
-- 👋 Hi, I’m Wiktor
-- 🌱 I’m currently learning c++, python
-- 📫 How to reach me wiktor.pori@gmail.com
+
+## Hi I'm Wiktor Porowski.
+
+👨‍💻 I'm a software enginner specializing in 🇨‌➕➕ and 🐍Python, with an engineering degree in Computer Science issued by [WUST](https://pwr.edu.pl/en/).
+
+- I have commercial experience in code maintenance in desktop aplications.
+
+- I developed a deep learning model that learned to play a desktop game based on interactions with that game. (🐍Python)
+  
+- I co-developed software for real-time detection of bus lights based on camera images, in a student project for Volvo company. (🐍Python)
+
+- I am interested in writing time and memory efficient code. (🇨‌➕➕)
+
+📫 You can contact me at wiktor.pori@gmail.com. B2 🇬🇧 English, native 🇵🇱 Polish.
+
 
 <!---
 wikorp/wikorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
