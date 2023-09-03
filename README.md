@@ -1,7 +1,7 @@
 
 ## Hi I'm Wiktor Porowski.
 
-👨‍💻 I'm a software enginner specializing in 🇨‌➕➕ and 🐍Python, with an engineering degree in Computer Science issued by [WUST](https://pwr.edu.pl/en/).
+👨‍💻 I'm a software engineer specializing in 🇨‌➕➕ and 🐍Python, with an engineering degree in Computer Science issued by [WUST](https://pwr.edu.pl/en/).
 
 - I have commercial experience in code maintenance in desktop applications.
 
