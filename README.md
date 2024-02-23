@@ -11,7 +11,7 @@
 
 - I am interested in writing time and memory efficient code. (🇨‌➕➕)
 
-📫 You can contact me at wiktor.pori@gmail.com. B2 🇬🇧 English, native 🇵🇱 Polish.
+📫 You can contact me at wiktor.porowski@proton.me B2 🇬🇧 English, native 🇵🇱 Polish.
 
 
 <!---
