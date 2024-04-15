@@ -5,7 +5,7 @@
 
 - I have 6 months of commercial experience in Embeded Software Development in Rockwell Automation. (C➕➕, RTOS, Cmake, Microcontrollers,  🐍Python)
   
-- I have 6 months experience in a student project in cooperation with Volvo company. (🐍Python, TensorFlow, Linux, Embeded software for real-time detection of bus lights based on camera images)
+- I have 5 months experience in an academic project in cooperation with Volvo company. (🐍Python, TensorFlow, Linux, Embeded software for real-time detection of bus lights based on camera images)
 
 - As part of the Engineering Thesis, I developed a deep learning model that learned to play a desktop game based on interactions with that game. (🐍Python, OpenAI, Images procesing)
 
