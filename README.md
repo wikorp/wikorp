@@ -1,7 +1,7 @@
 
 ## Hi I'm Wiktor Porowski.
 
-👨‍💻 I'm a software engineer specializing in C➕➕ and 🐍Python, with an engineering degree in Computer Science issued by [WUST](https://pwr.edu.pl/en/).
+ I'm a software engineer specializing in C➕➕ and 🐍Python, with an engineering degree in Computer Science issued by [WUST](https://pwr.edu.pl/en/).
 
 - I have 6 months of commercial experience in Embeded Software Development in Rockwell Automation. (C➕➕, RTOS, Cmake, Microcontrollers,  🐍Python)
   
