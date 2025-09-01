@@ -3,9 +3,12 @@
 
  I'm a software engineer specializing in C➕➕ and 🐍Python, with an engineering degree in Computer Science issued by [WUST](https://pwr.edu.pl/en/).
 
-- I have 6 months of commercial experience in Embeded Software Development in Rockwell Automation. (C➕➕, RTOS, Cmake, Microcontrollers,  🐍Python)
+- I have of over 1 year of commercial experience in Software Development.
+Tietoevry - Junior Software Engineer (6months)
+Atinea - Junior Software Developer (3months)
+Rockwell Automation - Embedded Software Intern (6months)
   
-- I have 5 months experience in an academic project in cooperation with Volvo company. (Embeded software for real-time detection of bus lights based on camera images, 🐍Python, TensorFlow, Linux)
+- Above that I have 3 months experience in an academic project in cooperation with Volvo company. (Embeded software for real-time detection of bus lights based on camera images, 🐍Python, TensorFlow, Linux)
 
 - As part of the Engineering Thesis, I developed a deep learning model that learned to play a desktop game based on interactions with that game. (🐍Python, OpenAI, Images procesing)
 
